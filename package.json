@@ -1,16 +1,26 @@
 {
-  "name": "website",
-  "version": "0.1.0",
-  "private": true,
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
-  },
-  "dependencies": {
-    "next": "9.5.3",
-    "react": "16.13.1",
-    "react-dom": "16.13.1",
-    "styled-components": "^5.2.0"
-  }
+    "name": "react-tailwindcss-boilerplate",
+    "version": "1.0.0",
+    "description": "React.JS boilerplate with TailWindCSS and Next.js.",
+    "dependencies": {
+        "@fullhuman/postcss-purgecss": "^2.3.0",
+        "@zeit/next-sass": "^1.0.1",
+        "autoprefixer": "^9.8.6",
+        "next": "canary",
+        "node-sass": "^4.13.1",
+        "postcss-import": "^12.0.1",
+        "react": "^16.12.0",
+        "react-dom": "^16.12.0",
+        "react-lazyload": "^2.6.8",
+        "swr": "^0.2.3",
+        "tailwindcss": "^1.6.2"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "dev": "next dev",
+        "start": "next start",
+        "build": "next build"
+    },
+    "author": "",
+    "license": "ISC"
 }
