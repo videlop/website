@@ -8,6 +8,9 @@ const index = ({ data }) => {
 			<p className="mb-0 text-5xl">Cộng đồng Videlop</p>
 			<p className="text-lg">một cộng đồng nghiên cứu và lập trình các công nghệ mở</p>
 		</div>
+		<div className="">
+			
+		</div>
 	</Layout>
 	)
 }
