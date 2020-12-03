@@ -1,7 +1,7 @@
 {
-    "name": "react-tailwindcss-boilerplate",
+    "name": "videlop",
     "version": "1.0.0",
-    "description": "React.JS boilerplate with TailWindCSS and Next.js.",
+    "description": "videlop official website",
     "dependencies": {
         "@fullhuman/postcss-purgecss": "^2.3.0",
         "@zeit/next-sass": "^1.0.1",
