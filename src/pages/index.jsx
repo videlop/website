@@ -6,7 +6,7 @@ const index = () => {
 	<Layout>
 		<div className="container text-center mb-3">
 			<p className="mb-0 text-5xl">Cộng đồng Videlop</p>
-			<p className="text-lg">một cộng đồng nghiên cứu và lập trình các công nghệ mở</p>
+			<p className="text-lg">một cộng đồng các bạn trẻ nghiên cứu và lập trình các công nghệ mở</p>
 		</div>
 		<div className="container mx-auto">
 

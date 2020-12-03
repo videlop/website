@@ -32,9 +32,10 @@ p {
 }
 
 a {
-    @apply border-b border-transparent transition-all duration-150 ease-in-out;
+    @apply py-3 px-0 block border-0 border-b rounded-xl border-transparent mr-4 transition-all duration-150 ease-in-out;
     &:hover {
-        border-color: currentColor;
+        background-color: white;
+        color: black;
     }
 }
 header{
