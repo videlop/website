@@ -1,3 +1,6 @@
+# This branch is deprecated! We've moved our latest build of the site to beta branch.
+# Nhánh phát triển này đã bị thôi phát triển! Chúng tôi đã dời nhánh phát triển sang beta.
+
 # Videlop Landing website
 
 [Jump to English version](#English-version)
